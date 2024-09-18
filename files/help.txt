@@ -1,0 +1,22 @@
+animals undergoing treatment:  Показати список тварин на лікуванні       
+add animals:  Додати нову тварину до списку на лікування 
+animal health:  Тварину вилікувано                         
+list of healthy:  Показати список вилікуваних тварин         
+exit:  Вийти з програми                           
+delete accidentally added animal:  Видалити помилково додану тварину за ім'ям,
+remove animal by name:  Видалити помилково додану тварину за номером,
+sort by name:  Відсортувати список Тварын за ім'ям,
+change name:  Змінити ім'я тварини                    
+change number by name:  Знайти номер тварини за ім'ям,
+exit:  Вийти з програми,
+show reviews:  Написати відгук       
+symbols that are repeated in the comments:  Знайти групи символівякі повторюються (використовуючи всі відгуки),
+palindromes:  Знайти Тварынякі є паліндромами,
+add employee: Додати нового працівника                           
+del employee: Видалити працівника                                
+show employees: Переглянути список працівників                     
+change salary: Змінити заробітну плату працівника                 
+change position: Змінити посаду працівника                          
+show log: Показати логin                                       
+show using commands: Показати список команд та їх частоту використання  
+help: Показати список доступних команд                                 
